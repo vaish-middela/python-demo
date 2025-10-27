@@ -1,0 +1,11 @@
+app:
+  name: "My Automated Runner"
+  version: "1.0"
+  log_level: DEBUG
+
+database:
+  host: localhost
+  port: 5432
+
+paths:
+  output_directory: reports/
